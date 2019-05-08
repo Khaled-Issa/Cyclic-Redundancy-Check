@@ -12,3 +12,8 @@ Sender Side (Generation of Encoded Data from Data and Generator Polynomial (or K
     
 Receiver Side (Check if there are errors introduced in transmission)
      Perform modulo-2 division again and if remainder is 0, then there are no errors. 
+     
+     
+     
+In this code (gnerator.cpp) we will focus only on finding the remainder i.e. check word and the code word.     
+     
